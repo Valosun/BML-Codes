@@ -37,3 +37,4 @@ selected_columns = ["age", "chol", "target"]  # Fixed typo in "chol"
 sns.pairplot(df[selected_columns], hue="target")
 plt.suptitle('Feature Relationships by Heart Disease Status', y=1.02)
 plt.show()
+
