@@ -28,3 +28,5 @@ plt.show()
 
 print("Slope (Coefficient):", model.coef_[0])
 print("Intercept:", model.intercept_)
+
+
