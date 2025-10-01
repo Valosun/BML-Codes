@@ -20,7 +20,7 @@ print(df.info())
 
 print("\nDuplicate Values:")
 print(df.duplicated().sum())
-
+ 
 print("\nSize of the Dataset:")
 print(df.size)
 
